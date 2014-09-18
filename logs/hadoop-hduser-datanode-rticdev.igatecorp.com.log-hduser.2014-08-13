@@ -1,3 +1,0 @@
-2014-08-13 21:45:44,599 WARN org.apache.hadoop.hdfs.server.common.Util: Path /home/hdfs/data/hdfs/datanode should be specified as a URI in configuration files. Please update hdfs configuration.
-2014-08-13 21:45:45,423 WARN org.apache.hadoop.hdfs.server.common.Util: Path /home/hdfs/data/hdfs/datanode should be specified as a URI in configuration files. Please update hdfs configuration.
-2014-08-13 21:45:45,834 WARN org.apache.hadoop.hdfs.server.common.Util: Path /home/hdfs/data/hdfs/datanode should be specified as a URI in configuration files. Please update hdfs configuration.

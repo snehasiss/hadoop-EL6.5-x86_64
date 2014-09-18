@@ -1,8 +1,0 @@
-2014-08-13 21:43:29,343 WARN org.apache.hadoop.security.authentication.server.AuthenticationFilter: 'signature.secret' configuration not set, using a random value as secret
-2014-08-13 21:43:29,447 WARN org.apache.hadoop.hdfs.server.common.Util: Path /home/hdfs/data/hdfs/namenode should be specified as a URI in configuration files. Please update hdfs configuration.
-2014-08-13 21:43:29,447 WARN org.apache.hadoop.hdfs.server.common.Util: Path /home/hdfs/data/hdfs/namenode should be specified as a URI in configuration files. Please update hdfs configuration.
-2014-08-13 21:43:29,448 WARN org.apache.hadoop.hdfs.server.namenode.FSNamesystem: Only one image storage directory (dfs.namenode.name.dir) configured. Beware of dataloss due to lack of redundant storage directories!
-2014-08-13 21:43:29,448 WARN org.apache.hadoop.hdfs.server.namenode.FSNamesystem: Only one namespace edits storage directory (dfs.namenode.edits.dir) configured. Beware of dataloss due to lack of redundant storage directories!
-2014-08-13 21:43:29,459 WARN org.apache.hadoop.hdfs.server.common.Util: Path /home/hdfs/data/hdfs/namenode should be specified as a URI in configuration files. Please update hdfs configuration.
-2014-08-13 21:43:29,459 WARN org.apache.hadoop.hdfs.server.common.Util: Path /home/hdfs/data/hdfs/namenode should be specified as a URI in configuration files. Please update hdfs configuration.
-2014-08-13 21:43:31,120 WARN org.apache.hadoop.hdfs.server.common.Util: Path /home/hdfs/data/hdfs/namenode should be specified as a URI in configuration files. Please update hdfs configuration.
